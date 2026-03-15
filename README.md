@@ -6,7 +6,7 @@
 [#lifehack](/lifehack) [#it_design_architect](/it_design_architect) [#devops](/devops) [#devsecops](/devsecops) [#medicine](/medicine) [#food](/food) [#hardware](/hardware) [#psychology](/psychology) [#finance](/finance) [#social](/social) [#secrets](/secrets) [#security](/security) [#law](/law) [#qa](/qa)
 
 
-You have two paths: the one you know well and which you walk every day, and the other one that I offer - the Collective Mind (look for it within)
+> You have two paths: the one you know well and which you walk every day, and the other one that I offer - the Collective Mind (look for it within)
 
 https://t.me/cybermerlin_pub
 
