@@ -9,9 +9,10 @@
 > You have two paths: the one you know well and which you walk every day, and the other one that I offer - the Collective Mind (look for it within)
 
 https://t.me/cybermerlin_pub
+https://teams.live.com/l/community/FEANs2419CVXWx7DgI
 
 
---
+----
 <details>
 <summary>
 #news
