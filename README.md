@@ -1,7 +1,10 @@
 # sir Merlin's channel. Engineer,IT-architect, programmer,infosec
 199+
-#AI #life #hack #dev #design #health #HR #business
-#lifehack #it_design_architect #devops #devsecops #medicine #food #hardware #psychology #finance #social #secrets #security #law #tests #qa
+
+[#AI](/AI) [#life](/life) [#hack](/hack) [#dev](/dev) [#design](/design) [#health](/health) [#HR](/HR) [#business](/business)
+
+[#lifehack](/lifehack) [#it_design_architect](/it_design_architect) [#devops](/devops) [#devsecops](/devsecops) [#medicine](/medicine) [#food](/food) [#hardware](/hardware) [#psychology](/psychology) [#finance](/finance) [#social](/social) [#secrets](/secrets) [#security](/security) [#law](/law) [#qa](/qa)
+
 
 You have two paths: the one you know well and which you walk every day, and the other one that I offer - the Collective Mind (look for it within)
 
