@@ -9,64 +9,62 @@ https://t.me/cybermerlin_pub
 
 --
 <details>
-  <summary>
-    #news
+<summary>
+#news
 
-открыт набор в закрытую группу 
-Коллективный разум
-  </summary>
-это группа сознательных и добрых по отношению друг к другу людей.
-Наша цель - помощь друг другу в развитии, ускорение развития каждого участника и общества в целом.
-В нашем социуме взаимное доверие и взаимная бескорыстная помощь. Мы хотим создавать и создаем светлое будущее. Кто-то из нас хочет поселиться на других планетах, кто-то хочет остаться на этой планете, но все мы единогласно думаем о сохранении текущего обиталища и саморазвитии для достижения долгожительства.
+Recruitment is now open for the closed group
+Collective Intelligence
+</summary>
+This is a group of conscious and kind people.
+Our goal is to help each other develop, accelerating the development of each member and society as a whole.
+Our society is based on mutual trust and selfless support. We want to create, and are creating, a bright future. Some of us want to settle on other planets, others want to remain on this planet, but we are all unanimous in our desire to preserve our current habitat and self-development to achieve longevity.
 
-не так давно мы согласились расширять общество посредством прохождения тестирования: https://forms.gle/CoTqL1yn1DD3gUpu6
+Not long ago, we agreed to expand our community through testing: https://forms.gle/CoTqL1yn1DD3gUpu6
 </details>
 
 <details>
-  <summary>
-    облако тэгов
-  </summary>
-  #lifehack #hr #business #it_design_architect #dev #devops #devsecops #health #medicine #food #hack #hardware #psychology #finance #red #AI #social #secrets #law #tests #qa
+<summary>
+tag cloud
+</summary>
+#lifehack #hr #business #it_design_architect #dev #devops #devsecops #health #medicine #food #hack #hardware #psychology #finance #red #AI #social #secrets #law #tests #qa
 </details>
 
 <details>
-  <summary>
-    #annons  
+<summary>
+#annons
 
-выпуск серии:
-"Как хакер учится программировать с помощью псевдо-ИИ"
-  </summary>
-это точно интересно 😉
+Series episode:
+"How a hacker learns to program using pseudo-AI"
+</summary>
+This is definitely interesting 😉
 
-1. первый пошел (https://t.me/cybermerlin_pub/35)
-2, вторая серия (https://t.me/cybermerlin_pub/38)
-3. третья серия (https://t.me/cybermerlin_pub/74)
+1. The first one is up (https://t.me/cybermerlin_pub/35)
+2. The second episode (https://t.me/cybermerlin_pub/38)
+3. Episode 3 (https://t.me/cybermerlin_pub/74)
 4.
 </details>
 
-
 <details>
-  #annons
+#annons
 
-  после выпуска серии (той самой), начну разработку системного решения по обеспечению безопасности ИТ-систем.
-работа будет сложная и массивная, но вполне решаемая.
+After the release of this episode (that one), I will begin developing a systemic solution for IT system security.
+The work will be complex and extensive, but completely doable.
 </details>
 
 <details>
-  <summary>
-    по результатам принимаю решение
-  </summary>
-  благодарю всех за участие в опросе.
+<summary>
+I will make a decision based on the results.
+</summary>
+Thank you all for participating in the survey.
 
-**решение**:
-- писать по 1 статье в день
+**solution**:
+- write 1 article per day
 
-После ввода "заказных" статей и пожертвований (режим VIP):
-- по 2 заказные статьи в неделю
-- с выбором темы "недели" участниками VIP
-- доступность для других будет выбираться участниками VIP
+After introducing "custom" articles and donations (VIP mode):
+- 2 custom articles per week
+- with VIP members choosing the "weekly" topic
+- availability for others will be determined by VIP members
 
-
-бесплатность сервисов будет распространяться только на участников канала (писал ранее (https://t.me/cybermerlin_pub/337))
-Также будут введены ранги участия \ активности 😉
+free services will only apply to channel members (I wrote about this earlier (https://t.me/cybermerlin_pub/337))
+Participation/activity ranks will also be introduced 😉
 </details>
