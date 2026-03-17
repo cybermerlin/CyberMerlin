@@ -45,6 +45,7 @@ This is definitely interesting 😉
 4.
 </details>
 
+
 <details>
 <summary>
 #annons
@@ -53,6 +54,7 @@ This is definitely interesting 😉
 After the release of this episode (that one), I will begin developing a systemic solution for IT system security.
 The work will be complex and extensive, but completely doable.
 </details>
+
 
 <details>
 <summary>
