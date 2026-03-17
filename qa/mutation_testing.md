@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mutation Testing: How to Check the Quality of the Tests Themselves
+---
+
 [#qa](.) [#dev](/dev)
 
 ## Mutation Testing: How to Check the Quality of the Tests Themselves

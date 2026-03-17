@@ -1,10 +1,9 @@
-// @import "jekyll-theme-midnight";
-
 /* Hacker Grayscale Theme with Orange Borders */
 body {
-  background-color: #000000;
-  color: #ffffff;
-  font-family: 'Courier New', monospace;
+  background: #111111 url('/assets/img/sci-fi-laboratory-tunnel-3d-model-obj-fbx-blend-abc.jpg') no-repeat center center fixed;
+  background-size: 100% 100%; /* Stretch effect */
+  color: #eee;
+  font-family: 'Google Sans',Arial,sans-serif;
   margin: 0;
   padding: 0;
   padding-top: 80px; /* Space for fixed header */
@@ -14,29 +13,35 @@ body {
 
 /* Fixed Header */
 .page-header {
+  height: 212px;
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #000000;
-  border-bottom: 2px solid #ff6600;
+  background: rgba(17, 17, 17, 0.9); /* Semi-transparent for glass effect */
+  border-bottom: 1px solid #bbb;
   padding: 1rem;
   z-index: 1000;
   margin-bottom: 0;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
 }
 
 /* Sidebar Container */
 .sidebar {
   width: 250px;
   font-family: 'Courier New', monospace;
-  border-right: 2px solid #ff6600; /* Orange border */
+  border-right: 1px solid #bbb; /* Orange border */
   padding: 1rem;
-  height: calc(100vh - 140px); /* Adjust for header and footer */
+  height: calc(100vh - 325px); /* Adjust for header and footer */
   overflow-y: auto;
-  background-color: #222222; /* Dark gray */
+  background: rgba(34, 34, 34, 0.9); /* Semi-transparent for glass effect */
   position: fixed;
-  top: 80px;
+  top: 245px;
   left: 0;
+  box-shadow: 2px 0 10px rgba(0, 0, 0, 0.8); /* Shadow at right side */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
 }
 
 /* Folder/Category Header */
@@ -49,7 +54,7 @@ body {
   color: #ffffff;
   user-select: none;
   background-color: #333333; /* Medium gray */
-  border: 1px solid #ff6600; /* Orange border */
+  border: 1px solid #eee; /* Orange border */
 }
 
 .sidebar-folder:hover {
@@ -98,16 +103,18 @@ body {
 /* Container for sidebar and main */
 .container {
   display: flex;
-  margin-left: 250px; /* Account for fixed sidebar */
-  margin-top: 0;
+  margin-left: 270px; /* Account for fixed sidebar */
+  margin-top: 260px;
 }
 
 .main-content {
   flex: 1;
   padding: 1rem;
-  background-color: #000000;
-  margin-left: 0;
-  color: #111111;
+  background-color: #111111;
+  margin-left: 2rem;
+  margin-right: 1rem;
+  color: #eee;
+  border: 1px solid #FFA500; /* Orange border */
 }
 
 /* Fixed Footer */
@@ -120,9 +127,11 @@ body {
   padding: 1rem;
   font-size: 14px;
   color: #cccccc;
-  background-color: #111111; /* Very dark gray */
-  border-top: 2px solid #ff6600; /* Orange border */
+  background: rgba(17, 17, 17, 0.9); /* Semi-transparent for glass effect */
+  border-top: 1px solid #bbb; /* Orange border */
   z-index: 1000;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
 }
 
 .site-footer a {
@@ -133,15 +142,22 @@ details {
   margin-top: 1rem;
   padding: 1rem;
   background: rgba(17, 17, 17, 0.8); /* Semi-transparent for glass effect */
-  border: 2px solid #ff6600; /* Orange border */
+  border: 2px solid #FFA500; /* Orange border */
   border-radius: 4px;
-  color: #ffffff;
+  color: #eee;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px); /* Safari support */
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: #ccc;
+}
+
 a:hover {
-  border-bottom: 2px solid #ff6600;
+  border-bottom: 2px solid #FFA500;
+}
+a, a:-webkit-any-link {
+  color: #99c3ff; /* Light blue for links */
 }
 
 code {
@@ -149,14 +165,18 @@ code {
   color: #ffffff;
   padding: 2px 4px;
   border-radius: 3px;
-  border: 1px solid #ff6600; /* Orange border */
+  border: 1px solid #FFA500; /* Orange border */
 }
 
 pre, input {
   background-color: #111111;
   color: #ffffff;
   padding: 1rem;
-  border: 2px solid #ff6600; /* Orange border */
+  border: 2px solid #FFA500; /* Orange border */
   border-radius: 4px;
   overflow-x: auto;
+}
+
+li {
+  margin-left: 1rem;
 }

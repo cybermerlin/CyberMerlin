@@ -1,9 +1,9 @@
 ---
 layout: default
-title: sir Merlin's channel, data, chat.
+title: sir Merlin's channel. Engineer, IT-architect, programmer, infosec
+description: sir Merlin's channel, data, chat.
 ---
 
-# sir Merlin's channel. Engineer,IT-architect, programmer,infosec
 199+
 
 [#AI](/AI) [#life](/life) [#hack](/hack) [#dev](/dev) [#design](/design) [#health](/health) [#HR](/HR) [#business](/business)
