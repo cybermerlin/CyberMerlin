@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: sir Merlin's channel, data, chat.
 ---
 
 # sir Merlin's channel. Engineer,IT-architect, programmer,infosec
