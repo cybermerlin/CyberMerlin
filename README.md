@@ -1,7 +1,3 @@
----
-layout: default
-title: Home
----
 
 # sir Merlin's channel. Engineer,IT-architect, programmer,infosec
 199+
