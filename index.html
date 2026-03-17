@@ -1,0 +1,26 @@
+{% comment %} 
+1. Get all files in the collection 
+2. Group them by the first part of their path (the root folder name)
+{% endcomment %}
+
+{% assign folders = site.root_docs | group_by_exp: "item", "item.path | split: '/' | first" %}
+
+<nav class="sidebar">
+  <ul>
+  {% for folder in folders %}
+    {% comment %} Ignore system folders or specific files like index.md {% endcomment %}
+    {% unless folder.name contains "." or folder.name == "_posts" or folder.name == "assets" %}
+      <li>
+        <strong>{{ folder.name | replace: "-", " " | capitalize }}</strong>
+        <ul>
+          {% for file in folder.items %}
+            {% if file.extname == ".md" or file.extname == ".html" %}
+              <li><a href="{{ file.url | relative_url }}">{{ file.title | default: file.basename }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </li>
+    {% endunless %}
+  {% endfor %}
+  </ul>
+</nav>
