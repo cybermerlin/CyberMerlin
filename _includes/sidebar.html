@@ -1,19 +1,26 @@
-<div class="sidebar">
-  <h3>Navigation</h3>
-  <div class="sidebar-folder" onclick="toggleFolder(this)">it_design_architect</div>
-  <ul class="sidebar-list">
-    <li><a href="/it_design_architect/">Overview</a></li>
-    <li><a href="/it_design_architect/MPLS.md">MPLS</a></li>
-  </ul>
-  <div class="sidebar-folder" onclick="toggleFolder(this)">qa</div>
-  <ul class="sidebar-list">
-    <li><a href="/qa/">Overview</a></li>
-    <li><a href="/qa/mutation_testing.md">Mutation Testing</a></li>
-  </ul>
-</div>
+
+<nav class="sidebar">
+  {% assign folders = site.root_docs | group_by_exp: "item", "item.path | split: '/' | first" %}
+  
+  {% for folder in folders %}
+    {% unless folder.name contains "." or folder.name == "assets" %}
+      <div class="sidebar-folder">{{ folder.name | capitalize }}</div>
+      <ul class="sidebar-list">
+        {% for file in folder.items %}
+          {% if file.extname == ".md" or file.extname == ".html" %}
+            <li><a href="{{ file.url | relative_url }}">{{ file.title | default: file.basename }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endunless %}
+  {% endfor %}
+</nav>
 
 <script>
-function toggleFolder(element) {
-  element.classList.toggle('active');
-}
+  // Simple JS to toggle the 'active' class on click
+  document.querySelectorAll('.sidebar-folder').forEach(folder => {
+    folder.addEventListener('click', () => {
+      folder.classList.toggle('active');
+    });
+  });
 </script>

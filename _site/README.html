@@ -17,25 +17,22 @@
     </header>
 
     <div class="container">
-      <div class="sidebar">
-  <h3>Navigation</h3>
-  <div class="sidebar-folder" onclick="toggleFolder(this)">it_design_architect</div>
-  <ul class="sidebar-list">
-    <li><a href="/it_design_architect/">Overview</a></li>
-    <li><a href="/it_design_architect/MPLS.md">MPLS</a></li>
-  </ul>
-  <div class="sidebar-folder" onclick="toggleFolder(this)">qa</div>
-  <ul class="sidebar-list">
-    <li><a href="/qa/">Overview</a></li>
-    <li><a href="/qa/mutation_testing.md">Mutation Testing</a></li>
-  </ul>
-</div>
+      
+<nav class="sidebar">
+  
+  
+  
+</nav>
 
 <script>
-function toggleFolder(element) {
-  element.classList.toggle('active');
-}
+  // Simple JS to toggle the 'active' class on click
+  document.querySelectorAll('.sidebar-folder').forEach(folder => {
+    folder.addEventListener('click', () => {
+      folder.classList.toggle('active');
+    });
+  });
 </script>
+
       <main id="content" class="main-content" role="main">
         <h1 id="sir-merlins-channel-engineerit-architect-programmerinfosec">sir Merlin’s channel. Engineer,IT-architect, programmer,infosec</h1>
 <p>199+</p>
