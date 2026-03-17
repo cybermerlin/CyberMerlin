@@ -1,4 +1,4 @@
 collections:
-  docs:
+  root_docs:
     output: true
-    permalink: /:/
+    directory: .
