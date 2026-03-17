@@ -68,3 +68,38 @@ After introducing "custom" articles and donations (VIP mode):
 free services will only apply to channel members (I wrote about this earlier (https://t.me/cybermerlin_pub/337))
 Participation/activity ranks will also be introduced 😉
 </details>
+
+
+{% comment %} 
+1. Get all files in the collection 
+2. Group them by the first part of their path (the root folder name)
+{% endcomment %}
+
+{% assign folders = site.root_docs | group_by_exp: "item", "item.path | split: '/' | first" %}
+
+
+<nav class="sidebar">
+  {% assign folders = site.root_docs | group_by_exp: "item", "item.path | split: '/' | first" %}
+  
+  {% for folder in folders %}
+    {% unless folder.name contains "." or folder.name == "assets" %}
+      <div class="sidebar-folder">{{ folder.name | capitalize }}</div>
+      <ul class="sidebar-list">
+        {% for file in folder.items %}
+          {% if file.extname == ".md" or file.extname == ".html" %}
+            <li><a href="{{ file.url | relative_url }}">{{ file.title | default: file.basename }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endunless %}
+  {% endfor %}
+</nav>
+
+<script>
+  // Simple JS to toggle the 'active' class on click
+  document.querySelectorAll('.sidebar-folder').forEach(folder => {
+    folder.addEventListener('click', () => {
+      folder.classList.toggle('active');
+    });
+  });
+</script>
