@@ -29,7 +29,6 @@ Not long ago, we agreed to expand our community through testing: https://forms.g
 </details>
 
 
-
 <details>
 <summary>
 #annons

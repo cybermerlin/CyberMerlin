@@ -107,6 +107,7 @@ body {
   padding: 1rem;
   background-color: #000000;
   margin-left: 0;
+  color: #111111;
 }
 
 /* Fixed Footer */
@@ -128,29 +129,19 @@ body {
   color: #ffffff;
 }
 
-.site-footer a:hover {
-  color: #ff6600; /* Orange on hover */
-}
-
 details {
   margin-top: 1rem;
   padding: 1rem;
-  background-color: #111111;
+  background: rgba(17, 17, 17, 0.8); /* Semi-transparent for glass effect */
   border: 2px solid #ff6600; /* Orange border */
-  border-radius: 6px;
+  border-radius: 4px;
   color: #ffffff;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
-}
-
-a {
-  color: #cccccc;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
 }
 
 a:hover {
-  color: #ffffff;
+  border-bottom: 2px solid #ff6600;
 }
 
 code {
@@ -161,11 +152,11 @@ code {
   border: 1px solid #ff6600; /* Orange border */
 }
 
-pre {
+pre, input {
   background-color: #111111;
   color: #ffffff;
   padding: 1rem;
   border: 2px solid #ff6600; /* Orange border */
-  border-radius: 6px;
+  border-radius: 4px;
   overflow-x: auto;
 }
