@@ -7,6 +7,22 @@ body {
   font-family: 'Courier New', monospace;
   margin: 0;
   padding: 0;
+  padding-top: 80px; /* Space for fixed header */
+  padding-bottom: 60px; /* Space for fixed footer */
+  min-height: 100vh;
+}
+
+/* Fixed Header */
+.page-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000000;
+  border-bottom: 2px solid #ff6600;
+  padding: 1rem;
+  z-index: 1000;
+  margin-bottom: 0;
 }
 
 /* Sidebar Container */
@@ -15,9 +31,12 @@ body {
   font-family: 'Courier New', monospace;
   border-right: 2px solid #ff6600; /* Orange border */
   padding: 1rem;
-  height: 100vh;
+  height: calc(100vh - 140px); /* Adjust for header and footer */
   overflow-y: auto;
   background-color: #222222; /* Dark gray */
+  position: fixed;
+  top: 80px;
+  left: 0;
 }
 
 /* Folder/Category Header */
@@ -79,21 +98,30 @@ body {
 /* Container for sidebar and main */
 .container {
   display: flex;
+  margin-left: 250px; /* Account for fixed sidebar */
+  margin-top: 0;
 }
 
 .main-content {
   flex: 1;
   padding: 1rem;
   background-color: #000000;
+  margin-left: 0;
 }
 
+/* Fixed Footer */
 .site-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
   text-align: center;
   padding: 1rem;
   font-size: 14px;
   color: #cccccc;
   background-color: #111111; /* Very dark gray */
   border-top: 2px solid #ff6600; /* Orange border */
+  z-index: 1000;
 }
 
 .site-footer a {
@@ -110,13 +138,6 @@ details {
   background-color: #111111;
   border: 2px solid #ff6600; /* Orange border */
   border-radius: 6px;
-  color: #ffffff;
-}
-
-.page-header {
-  margin-bottom: 1rem;
-  border-bottom: 2px solid #ff6600; /* Orange border */
-  padding-bottom: 0.5rem;
   color: #ffffff;
 }
 
