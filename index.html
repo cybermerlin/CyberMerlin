@@ -5,22 +5,29 @@
 
 {% assign folders = site.root_docs | group_by_exp: "item", "item.path | split: '/' | first" %}
 
+
 <nav class="sidebar">
-  <ul>
+  {% assign folders = site.root_docs | group_by_exp: "item", "item.path | split: '/' | first" %}
+  
   {% for folder in folders %}
-    {% comment %} Ignore system folders or specific files like index.md {% endcomment %}
-    {% unless folder.name contains "." or folder.name == "_posts" or folder.name == "assets" %}
-      <li>
-        <strong>{{ folder.name | replace: "-", " " | capitalize }}</strong>
-        <ul>
-          {% for file in folder.items %}
-            {% if file.extname == ".md" or file.extname == ".html" %}
-              <li><a href="{{ file.url | relative_url }}">{{ file.title | default: file.basename }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </li>
+    {% unless folder.name contains "." or folder.name == "assets" %}
+      <div class="sidebar-folder">{{ folder.name | capitalize }}</div>
+      <ul class="sidebar-list">
+        {% for file in folder.items %}
+          {% if file.extname == ".md" or file.extname == ".html" %}
+            <li><a href="{{ file.url | relative_url }}">{{ file.title | default: file.basename }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     {% endunless %}
   {% endfor %}
-  </ul>
 </nav>
+
+<script>
+  // Simple JS to toggle the 'active' class on click
+  document.querySelectorAll('.sidebar-folder').forEach(folder => {
+    folder.addEventListener('click', () => {
+      folder.classList.toggle('active');
+    });
+  });
+</script>
