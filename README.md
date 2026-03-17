@@ -69,7 +69,7 @@ free services will only apply to channel members (I wrote about this earlier (ht
 Participation/activity ranks will also be introduced 😉
 </details>
 
-
+----
 {% comment %} 
 1. Get all files in the collection 
 2. Group them by the first part of their path (the root folder name)
