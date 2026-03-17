@@ -161,11 +161,10 @@ a, a:-webkit-any-link {
 }
 
 code {
-  background-color: #111111;
+  background-color: #004700;
   color: #ffffff;
   padding: 2px 4px;
   border-radius: 3px;
-  border: 1px solid #FFA500; /* Orange border */
 }
 
 pre, input {
@@ -176,7 +175,27 @@ pre, input {
   border-radius: 4px;
   overflow-x: auto;
 }
+pre code {
+  background: none;
+}
 
 li {
   margin-left: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #333333;
+  color: #ffffff;
 }
