@@ -16,7 +16,7 @@ Everyone writes unit tests, but how do you know how good they are? Code coverage
 5. Metric: percentage of killed mutants = test suite quality.
 
 **Types of Mutations (Examples)**
-```
+
 | Operator          | Source Code  | Mutant         |
 |-------------------|--------------|----------------|
 | Change arithmetic | `a + b`      | `a - b`        |
@@ -24,7 +24,6 @@ Everyone writes unit tests, but how do you know how good they are? Code coverage
 | Remove call       | `saveData();`| (empty)        |
 | Replace constant  | `MAX = 100`  | `MAX = 0`      |
 | Invert boolean    | `return true`| `return false` |
-```
 
 **Tools**
 - Java - PITest (PiTest)
