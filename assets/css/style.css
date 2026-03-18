@@ -26,6 +26,21 @@ body {
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px); /* Safari support */
 }
+.page-header input {
+  width: 15%;
+  right: 5rem;
+  display: inline-block;
+  position: absolute;
+}
+.page-header p {
+  margin: 0;
+  display: inline;
+  margin-left: 3rem;
+}
+.page-header .projet-name {
+  margin-top: 0;
+  display: inline;
+}
 
 /* Sidebar Container */
 .sidebar {
