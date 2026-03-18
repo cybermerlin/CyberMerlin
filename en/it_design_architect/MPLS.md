@@ -1,1 +1,1 @@
-../../../it_design_architect/MPLS.md
+../../it_design_architect/MPLS.md

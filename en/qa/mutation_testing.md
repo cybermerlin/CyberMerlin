@@ -1,1 +1,1 @@
-../../../qa/mutation_testing.md
+../../qa/mutation_testing.md
