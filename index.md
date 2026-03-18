@@ -3,8 +3,9 @@ layout: default
 title: sir Merlin's channel. Engineer, IT-architect, programmer, infosec
 description: sir Merlin's channel, data, chat.
 ---
+languages: [#en](/en), [#ru](/)
 
-199+
+299+ (allowed age)
 
 [#AI](/AI) [#life](/life) [#hack](/hack) [#dev](/dev) [#design](/design) [#health](/health) [#HR](/HR) [#business](/business)
 
