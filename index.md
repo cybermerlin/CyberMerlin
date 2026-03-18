@@ -7,9 +7,9 @@ languages: [#en](./en), [#ru](./)
 
 299+ (allowed age)
 
-[#AI](/AI) [#life](/life) [#hack](/hack) [#dev](/dev) [#design](/design) [#health](/health) [#HR](/HR) [#business](/business)
+[#AI](./AI) [#life](./life) [#hack](./hack) [#dev](./dev) [#design](./design) [#health](./health) [#HR](./HR) [#business](./business)
 
-[#lifehack](/lifehack) [#it_design_architect](/it_design_architect) [#devops](/devops) [#devsecops](/devsecops) [#medicine](/medicine) [#food](/food) [#hardware](/hardware) [#psychology](/psychology) [#finance](/finance) [#social](/social) [#secrets](/secrets) [#security](/security) [#law](/law) [#qa](/qa)
+[#lifehack](./lifehack) [#it_design_architect](./it_design_architect) [#devops](./devops) [#devsecops](./devsecops) [#medicine](./medicine) [#food](./food) [#hardware](./hardware) [#psychology](./psychology) [#finance](./finance) [#social](./social) [#secrets](./secrets) [#security](./security) [#law](./law) [#qa](./qa)
 
 
 > You have two paths: the one you know well and which you walk every day, and the other one that I offer - the Collective Mind (look for it within)
@@ -76,3 +76,12 @@ After introducing "custom" articles and donations (VIP mode):
 free services will only apply to channel members (I wrote about this earlier (https://t.me/cybermerlin_pub/337))
 Participation/activity ranks will also be introduced 😉
 </details>
+
+
+## Recent Updates
+
+Here are the last three added md-files:
+
+- [psychology/why_commit_crimes.md](psychology/why_commit_crimes.md)
+- [en/psychology/why_commit_crimes.md](en/psychology/why_commit_crimes.md)
+- [en/psychology/index.md](en/psychology/index.md)
