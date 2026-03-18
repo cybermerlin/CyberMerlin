@@ -7,5 +7,5 @@ title: English Content
 
 Browse the English sections:
 
-- [Life](./en/life)
-- [Psychology](./en/psychology)
+- [Life](./life)
+- [Psychology](./psychology)
