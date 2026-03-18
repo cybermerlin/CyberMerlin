@@ -3,7 +3,7 @@ layout: default
 title: Multiprotocol Label Switching (MPLS)
 ---
 
-[#devsecops](../devsecops) [#it_design_architect](./)
+[#devsecops](../../devsecops) [#it_design_architect](../)
 
 ## Multiprotocol Label Switching (MPLS)
 

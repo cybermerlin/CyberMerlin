@@ -1,7 +1,7 @@
 ---
 layout: default
 title: sir Merlin's channel. Engineer, IT-architect, programmer, infosec
-description: sir Merlin's channel, data, chat.
+description: 
 ---
 languages: [#en](./en), [#ru](./)
 
