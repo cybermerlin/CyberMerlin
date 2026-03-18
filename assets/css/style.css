@@ -37,9 +37,15 @@ body {
   display: inline;
   margin-left: 3rem;
 }
-.page-header .projet-name {
+.projet-name h1 {
   margin-top: 0;
   display: inline;
+}
+.project-name h2 {
+  margin-left: 1rem;
+}
+.project-name h3 {
+  margin-left: 2rem;
 }
 
 /* Sidebar Container */
