@@ -18,7 +18,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  background: rgba(17, 17, 17, 0.9); /* Semi-transparent for glass effect */
+  background: rgba(17, 17, 17, 0.9);
   border-bottom: 1px solid #aaa;
   padding: 1rem;
   z-index: 1000;
@@ -132,6 +132,7 @@ h2.project-name {
   flex: 1;
   padding: 1rem;
   background-color: #111111;
+  background: rgba(17, 17, 17, 0.97);
   margin-left: 2rem;
   margin-right: 1rem;
   color: #eee;
