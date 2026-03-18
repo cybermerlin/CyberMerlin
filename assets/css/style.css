@@ -37,14 +37,14 @@ body {
   display: inline;
   margin-left: 3rem;
 }
-.projet-name h1 {
+h1.projet-name {
   margin-top: 0;
   display: inline;
 }
-.project-name h2 {
+h2.project-name {
   margin-left: 1rem;
 }
-.project-name h3 {
+.project-tagline {
   margin-left: 2rem;
 }
 
