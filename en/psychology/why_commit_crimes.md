@@ -1,3 +1,9 @@
+---
+layout: default
+title: Why do people commit crimes, and is it even worth looking for someone to blame?
+description: Let’s talk about the Underworld today—and not just in IT—but crime in its broadest sense.
+---
+
 #en #life #psychology 
 
 _Let’s talk about the Underworld today—and not just in IT—but crime in its broadest sense._
