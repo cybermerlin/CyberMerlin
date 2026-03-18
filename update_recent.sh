@@ -13,13 +13,11 @@ done
 sort -nr temp | head -3 | awk '{print "- ["$2"]("$2") - " $3 " - \"" $4 "\""}' > temp2
 
 # Remove everything from "Here are the last three added md-files:" to the end of the file
-sed -i '/Here are the last three added md-files:/,$d' index.md
+sed -i '/## Recent Updates/,$d' index.md
 
 # Then, add the new section at the end
 echo "" >> index.md
 echo "## Recent Updates" >> index.md
-echo "" >> index.md
-echo "Here are the last three added md-files:" >> index.md
 echo "" >> index.md
 cat temp2 >> index.md
 echo "{: .recent-updates}" >> index.md
