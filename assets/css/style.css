@@ -223,7 +223,7 @@ th {
 
 .recent-updates {
   width: 45%;
-  margin: 3rem auto 0 auto;
+  margin: 0 auto 0 auto;
   background: rgba(255, 165, 0, 0.3); /* Semi-transparent orange */
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px); /* Safari support */
@@ -233,7 +233,7 @@ th {
 }
 #recent-updates {
   width: 45%;
-  margin: 0 auto 0 auto;
+  margin: 3rem auto 0 auto;
   padding: 1rem;
   border-radius: 10px;
   background: linear-gradient(to bottom, transparent, #FFA500);
