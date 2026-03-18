@@ -28,7 +28,7 @@ body {
 }
 .page-header input {
   width: 15%;
-  right: 5rem;
+  right: 2rem;
   display: inline-block;
   position: absolute;
 }
@@ -233,7 +233,7 @@ th {
 }
 #recent-updates {
   width: 45%;
-  margin: 3rem auto 0 auto;
+  margin: 0 auto 0 auto;
   padding: 1rem;
   border-radius: 10px;
   background: linear-gradient(to bottom, transparent, #FFA500);
