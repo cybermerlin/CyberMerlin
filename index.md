@@ -81,21 +81,11 @@ Participation/activity ranks will also be introduced 😉
 </details>
 
 
-<div class="recent-updates">
 ## Recent Updates
 
 Here are the last three added md-files:
 
-- [psychology/why_commit_crimes.md](psychology/why_commit_crimes.md)
-- [en/qa/mutation_testing.md](en/qa/mutation_testing.md)
-- [en/psychology/why_commit_crimes.md](en/psychology/why_commit_crimes.md)
-</div>
-
-## Recent Updates
-
-Here are the last three added md-files:
-
-- [psychology/why_commit_crimes.md](psychology/why_commit_crimes.md)
-- [en/qa/mutation_testing.md](en/qa/mutation_testing.md)
-- [en/psychology/why_commit_crimes.md](en/psychology/why_commit_crimes.md)
+- [en/qa/mutation_testing.md](en/qa/mutation_testing.md) - 2026-03-18 - "[#qa](../)"
+- [en/it_design_architect/MPLS.md](en/it_design_architect/MPLS.md) - 2026-03-18 - "[#devsecops](../../devsecops)"
+- [en/index.md](en/index.md) - 2026-03-18 - "#"
 {: .recent-updates}

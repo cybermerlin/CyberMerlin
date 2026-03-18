@@ -37,7 +37,7 @@ body {
   display: inline;
   margin-left: 3rem;
 }
-h1.projet-name {
+h1.project-name {
   margin-top: 0;
   display: inline;
 }
@@ -223,13 +223,18 @@ th {
 
 .recent-updates {
   width: 45%;
-  margin: auto;
-  margin-top: 3rem;
+  margin: 3rem auto 0 auto;
   background: rgba(255, 165, 0, 0.3); /* Semi-transparent orange */
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px); /* Safari support */
   padding: 1rem;
   border-radius: 10px;
-  margin: 1rem 0;
   border: 1px solid rgba(255, 165, 0, 0.5);
+}
+#recent-updates {
+  width: 45%;
+  margin: 3rem auto 0 auto;
+  padding: 1rem;
+  border-radius: 10px;
+  background: linear-gradient(to bottom, transparent, #FFA500);
 }
