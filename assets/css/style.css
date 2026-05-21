@@ -164,11 +164,16 @@ details {
   margin-top: 1rem;
   padding: 1rem;
   background: rgba(17, 17, 17, 0.8); /* Semi-transparent for glass effect */
-  border: 2px solid #FFA500; /* Orange border */
+  border: 1px solid #FFA500; /* Orange border */
   border-radius: 4px;
   color: #eee;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px); /* Safari support */
+}
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  color: #99c3ff; /* Light blue for summary */
 }
 
 h1, h2, h3, h4, h5, h6 {
