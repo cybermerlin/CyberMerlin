@@ -76,14 +76,14 @@ After introducing "custom" articles and donations (VIP mode):
 - with VIP members choosing the "weekly" topic
 - availability for others will be determined by VIP members
 
-free services will only apply to channel members ([I wrote about this earlier](https://t.me/cybermerlin_pub/337))
+free services will only apply to channel members {% raw %}([I wrote about this earlier](https://t.me/cybermerlin_pub/337)){% endraw %}
 Participation/activity ranks will also be introduced 😉
 </details>
 
 
 <details>
 <summary>Новые telegram-прокси. Старые удалять не надо!</summary>
-
+{% raw %}
 [tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
 
 [tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
@@ -103,6 +103,7 @@ Participation/activity ranks will also be introduced 😉
 [tg://proxy?server=orbit.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=orbit.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
 
 [tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+{% endraw %}
 </details>
 
 
