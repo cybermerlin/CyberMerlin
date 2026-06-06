@@ -1,3 +1,6 @@
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 search_enabled: true
 auto_page_title: true
 permalink: pretty
