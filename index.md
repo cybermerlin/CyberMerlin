@@ -51,9 +51,10 @@ This is definitely interesting 😉
 
 
 <details>
-<summary>#annons
+<summary>
+  #annons
 
-After the release of this episode (that one)
+  After the release of this episode (that one)
 </summary>
 
 I will begin developing a systemic solution for IT system security.
@@ -62,7 +63,9 @@ The work will be complex and extensive, but completely doable.
 
 
 <details>
-<summary>I will make a decision based on the results.</summary>
+<summary>
+  I will make a decision based on the results.
+</summary>
 
   Thank you all for participating in the survey.
 
@@ -75,33 +78,36 @@ The work will be complex and extensive, but completely doable.
   - availability for others will be determined by VIP members
   
   free services will only apply to channel members ([I wrote about this earlier](https://t.me/cybermerlin_pub/337))
+  
   Participation/activity ranks will also be introduced 😉
 
 </details>
 
 
 <details>
-<summary>Новые telegram-прокси. Старые удалять не надо!</summary>
+<summary>
+  Новые telegram-прокси. Старые удалять не надо!
+</summary>
 
-[tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=nova.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=nova.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=relay.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=relay.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=secure.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=secure.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=fast.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=fast.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=global.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=global.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=signal.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=signal.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=orbit.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=orbit.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
-
-[tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  [tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=connect.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=edge.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=nova.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=nova.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=relay.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=relay.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=secure.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=secure.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=fast.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=fast.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=global.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=global.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=signal.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=signal.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=orbit.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=orbit.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
+  
+  [tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275](tg://proxy?server=pulse.mtp.llc&port=443&secret=ee3f8a91c2d7e04b6a9f12c5e8370bd4aa786170692e6f7a6f6e2e7275)
 
 </details>
 
