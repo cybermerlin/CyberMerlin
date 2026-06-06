@@ -63,18 +63,20 @@ The work will be complex and extensive, but completely doable.
 
 <details>
 <summary>I will make a decision based on the results.</summary>
-Thank you all for participating in the survey.
 
-**solution**:
-- write 1 article per day
+  Thank you all for participating in the survey.
 
-After introducing "custom" articles and donations (VIP mode):
-- 2 custom articles per week
-- with VIP members choosing the "weekly" topic
-- availability for others will be determined by VIP members
+  **solution**:
+  - write 1 article per day
+  
+  After introducing "custom" articles and donations (VIP mode):
+  - 2 custom articles per week
+  - with VIP members choosing the "weekly" topic
+  - availability for others will be determined by VIP members
+  
+  free services will only apply to channel members ([I wrote about this earlier](https://t.me/cybermerlin_pub/337))
+  Participation/activity ranks will also be introduced 😉
 
-free services will only apply to channel members ([I wrote about this earlier](https://t.me/cybermerlin_pub/337))
-Participation/activity ranks will also be introduced 😉
 </details>
 
 
