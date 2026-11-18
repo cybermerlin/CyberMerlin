@@ -5,4 +5,4 @@ title: law
 
 # law
 
-Content for the law section.
+International Law, regulation, and legal topics.
